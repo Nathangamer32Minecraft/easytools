@@ -1,0 +1,40 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    padding: 2rem;
+  }
+  
+  h1 {
+    color: #4ec9b0;
+  }
+  
+  form {
+    margin-bottom: 1rem;
+  }
+  
+  input[type="file"] {
+    margin-right: 1rem;
+  }
+  
+  button {
+    background-color: #007acc;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #005f99;
+  }
+  
+  pre {
+    background-color: #252526;
+    padding: 1rem;
+    border-radius: 6px;
+    overflow-x: auto;
+    max-height: 80vh;
+  }
+  
